@@ -1,3 +1,7 @@
 joystick
 *.o
 *.out
+/stm32_komunikacja_project
+/komunikacja_joystick_project
+*.save
+*.save.*
